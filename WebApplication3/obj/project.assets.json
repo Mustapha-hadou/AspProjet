@@ -15238,6 +15238,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.14",
       "Microsoft.EntityFrameworkCore.SqlServer.Design >= 1.1.5",
       "Microsoft.EntityFrameworkCore.Tools >= 2.1.14",
+      "Microsoft.Extensions.Hosting >= 2.1.1",
       "Microsoft.Extensions.Logging.Debug >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.BrowserLink >= 2.1.1",
@@ -15254,11 +15255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Nouveau dossier (6)\\WebApplication3\\WebApplication3\\miniPrpject_Asp.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\WebApplication3\\WebApplication3\\miniPrpject_Asp.csproj",
       "projectName": "miniPrpject_Asp",
-      "projectPath": "C:\\Users\\dell\\Desktop\\Nouveau dossier (6)\\WebApplication3\\WebApplication3\\miniPrpject_Asp.csproj",
+      "projectPath": "C:\\Users\\dell\\Desktop\\WebApplication3\\WebApplication3\\miniPrpject_Asp.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\Nouveau dossier (6)\\WebApplication3\\WebApplication3\\obj\\",
+      "outputPath": "C:\\Users\\dell\\Desktop\\WebApplication3\\WebApplication3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
@@ -15343,6 +15344,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.14, )"
+          },
+          "Microsoft.Extensions.Hosting": {
+            "target": "Package",
+            "version": "[2.1.1, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",

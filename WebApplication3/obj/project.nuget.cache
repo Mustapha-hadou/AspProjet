@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tI+3pV1xn0vtSHvdpRFn7IR5QEu4hp+lcsF081zHNQDN8vlfVt31pP4qlPj9+ASb0zsbd/ZqQGCVuUbt4HbGHg==",
+  "dgSpecHash": "C+LqWoINmkYgv6ydtMI11aayCHLcgT4KsaZGgiLHytcsAShN8DNG+qf0czouzsMtUsPb6NybuZEFXwfFyT5rJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dell\\Desktop\\Nouveau dossier (6)\\WebApplication3\\WebApplication3\\miniPrpject_Asp.csproj",
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\WebApplication3\\WebApplication3\\miniPrpject_Asp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\htmlhelper\\1.0.0\\htmlhelper.1.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\jquery\\1.4.4\\jquery.1.4.4.nupkg.sha512",

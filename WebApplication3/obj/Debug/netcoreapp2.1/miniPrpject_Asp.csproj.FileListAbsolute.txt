@@ -301,3 +301,25 @@ C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\De
 C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.cshtml.g.cs
 C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Cours\Index.cshtml.g.cs
 C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Cours\Edit.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Success.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ModifierSeance.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParClasse.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParClassePdf.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParLocal.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParLocalPdf.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\afficherEmploies.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\ParClasse.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\ParLocal.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Cours\Create.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Cours\Edit.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Cours\Index.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Create.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Delete.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Details.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Edit.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Index.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Seance\afficherEmploies.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
