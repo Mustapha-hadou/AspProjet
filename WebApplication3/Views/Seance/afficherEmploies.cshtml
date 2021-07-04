@@ -1,0 +1,138 @@
+﻿@model IEnumerable<miniPrpject_Asp.Models.Emploi>
+
+@{ ViewData["Title"] = "Index"; }
+
+
+
+<div class="row">
+    <div class="col-md-9" style="margin-left:100px;">
+
+        <div class="card">
+            <table class="table  mt-4">
+                <thead class="thead-light">
+                    <tr>
+                        <th>
+                            Annee universitaire
+                        </th>
+                        <th>
+                            Niveau
+                        </th>
+                        <th>
+                            Semaines
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{ var exist = 1;}
+                    @foreach (var anne in ViewBag.annee)
+                    {
+
+        @foreach (var niveau in ViewBag.Niveau)
+        {
+            foreach (var x in ViewBag.anneeNive)
+            {
+                if (anne.Id == x.AnneeID && niveau.Id == x.id_niveau)
+                {
+                    exist = 0;
+                }
+            }
+            if (exist == 0)
+            {
+                exist = 1;
+<tr>
+    <td>
+        @anne.Nom
+
+    </td>
+    <td>
+        @niveau.code
+
+
+    </td>
+    <td>
+
+        @foreach (var item in Model)
+        {
+            if (item.id_niveau == niveau.Id & item.AnneeID == anne.Id)
+            {
+
+                foreach (var sem in ViewBag.Semaine)
+                {
+
+
+@if (sem.Id == item.SemaineID)
+{
+
+
+
+@using (Html.BeginForm("AffichageParClasse", "Admin", FormMethod.Post, new { @class = "myForm" }))
+{
+<input type="hidden" value="@item.id_niveau" name="classe" />
+                                            <input type="hidden" value="@item.AnneeID" name="annee" />
+                                                                                        <input type="hidden" value="@item.SemaineID" name="semaine" />
+
+                                                                                                                                    <input type="submit" value="@sem.NomSemaine" class="btn btn-simple-danger" style="background-color:white" name="but" />}}}
+
+                            }
+                        }
+
+
+    </td>
+
+
+</tr>}
+                }}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+    jQueryAjaxDelete = form => {
+        if (confirm('etes-vous sur de vouloir supprimer cet emploie ?')) {
+            try {
+                $.ajax({
+                    type: 'POST',
+                    url: form.action,
+                    data: new FormData(form),
+                    contentType: false,
+                    processData: false,
+                    success: function (res) {
+                        $('#view-all').html(res.html);
+                        location.reload();
+                    },
+                    error: function (err) {
+                        console.log(err)
+                    }
+                })
+            } catch (ex) {
+                console.log(ex)
+            }
+        }
+
+        //prevent default form submit event
+        return false;
+    }
+</script>

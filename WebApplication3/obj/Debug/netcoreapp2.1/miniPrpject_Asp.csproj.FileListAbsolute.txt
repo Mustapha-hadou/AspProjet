@@ -1,0 +1,303 @@
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cache
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.input.cache
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.output.cache
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorCoreGenerate.cache
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.deps.json
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.dev.json
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.dll
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cache
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.genruntimeconfig.cache
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CopyComplete
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Create.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Delete.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Details.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Edit.cshtml.g.cs
+C:\Users\Utilisateur\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Index.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cache
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.input.cache
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.output.cache
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorCoreGenerate.cache
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Create.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Delete.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Details.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Edit.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Index.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cache
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.deps.json
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.json
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.dev.json
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.dll
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.genruntimeconfig.cache
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CopyComplete
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_Emploi.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_emploi_etap1.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_emploe_etap2.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Disponibilite.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\dispo.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParLocal.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParLocal.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParLocalPdf.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParProfesseur.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParProfesseur.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParProfesseurPdf.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParClasse.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParClasse.cshtml.g.cs
+C:\Users\Utilisateur\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParClassePdf.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.deps.json
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.json
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.dev.json
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.dll
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfo.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.input.cache
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.output.cache
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorCoreGenerate.cache
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParClasse.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParClassePdf.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParLocal.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParLocalPdf.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParProfesseur.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParProfesseurPdf.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\dispo.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Disponibilite.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParClasse.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParLocal.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParProfesseur.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_emploe_etap2.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_Emploi.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_emploi_etap1.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Create.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Delete.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Details.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Edit.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Index.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cache
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cs
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.genruntimeconfig.cache
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CopyComplete
+C:\Users\dell\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\statusEmploi.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.deps.json
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.json
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.dev.json
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.dll
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfoInputs.cache
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfo.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CoreCompileInputs.cache
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cache
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.input.cache
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.output.cache
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorCoreGenerate.cache
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParClasse.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParClassePdf.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParLocal.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParLocalPdf.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParProfesseur.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParProfesseurPdf.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\dispo.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Disponibilite.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParClasse.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParLocal.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParProfesseur.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_emploe_etap2.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_Emploi.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_emploi_etap1.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\statusEmploi.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Create.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Delete.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Details.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Edit.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Index.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cache
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.genruntimeconfig.cache
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CopyComplete
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ModifierSeance.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Seance\afficherEmploies.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Success.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csprojAssemblyReference.cache
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Create.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Delete.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Details.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Edit.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Index.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParClasse.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParClassePdf.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParLocal.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParLocalPdf.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\afficherEmploies.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\ParClasse.cshtml.g.cs
+C:\Users\dounia lamsaddek\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\ParLocal.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.deps.json
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.json
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.dll
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.AssemblyInfo.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.input.cache
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.TagHelpers.output.cache
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorCoreGenerate.cache
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Success.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParClasse.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParClassePdf.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParLocal.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParLocalPdf.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParProfesseur.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AffichageParProfesseurPdf.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\dispo.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Disponibilite.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ModifierSeance.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParClasse.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParLocal.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ParProfesseur.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_emploe_etap2.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_Emploi.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Programer_emploi_etap1.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\statusEmploi.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParClasse.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParClassePdf.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParLocal.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\AffichageParLocalPdf.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\afficherEmploies.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\ParClasse.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Client\ParLocal.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Create.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Delete.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Details.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Edit.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Locals\Index.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Create.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Delete.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Details.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Edit.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Professeurs\Index.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Seance\afficherEmploies.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cache
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.RazorTargetAssemblyInfo.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.Views.pdb
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.dll
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.pdb
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.genruntimeconfig.cache
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\miniPrpject_Asp.csproj.CopyComplete
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Cours\Create.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Cours\Index.cshtml.g.cs
+C:\Users\dell\Desktop\Nouveau dossier (6)\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Views\Cours\Edit.cshtml.g.cs

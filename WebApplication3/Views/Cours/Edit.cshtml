@@ -1,0 +1,55 @@
+﻿@model miniPrpject_Asp.Models.Cours
+
+@{
+
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="card">
+            <form asp-action="Create">
+
+                <div class="card-body">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Nom" class="control-label"></label>
+                        <input asp-for="Nom" class="form-control" />
+                        <span asp-validation-for="Nom" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Professeur" class="control-label"></label>
+                        <select asp-for="ProfesseurID" class="form-control" asp-items="@ViewBag.ProfesseurID"></select>
+                        <span asp-validation-for="Professeur" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Classe" class="control-label"></label>
+                        <select asp-for="ClasseID" class="form-control" asp-items="@ViewBag.ClasseID"></select>
+                        <span asp-validation-for="Classe" class="text-danger"></span>
+                    </div>
+
+
+
+
+                </div>
+                <div class="card-action">
+                    <center>
+                        <input class="btn btn-primary" value="Confermer" type="submit" style="background-color: #e01f1f;">
+
+                        <input class="btn btn-danger" type="reset" value="Annuler">
+
+                        <a asp-action="Index"> <input class="btn btn-secondary" value="Back to List"></a>
+                    </center>
+                </div>
+            </form>
+
+
+        </div>
+
+    </div>
+    <div class="col-md-8"></div>
+</div>
+
+

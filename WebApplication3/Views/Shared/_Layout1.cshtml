@@ -1,0 +1,164 @@
+﻿@using Microsoft.AspNetCore.Http;
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>  Espace Administrateur</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i">
+    <link rel="stylesheet" href="~/ssets/css/line-awesome.min.css">
+    <link rel="stylesheet" href="~/assets/css/chartist.min.css">
+    <link rel="stylesheet" href="~/assets/css/bootstrap-toggle.min.css">
+    <link rel="stylesheet" href="~/assets/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="~/assets/css/jquery.scrollbar.min.css">
+    <link rel="stylesheet" href="~/assets/css/ready.css">
+    <link rel="stylesheet" href="~/assets/css/demo.css">
+    <script src="~/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+
+        <div class="main-header">
+            <div class="logo-header">
+                <a href="index.html" class="logo">
+
+
+                    <span style="color: dimgrey;font-size:15px;
+">Espace</span>   <span style="color:cornflowerblue;font-weight:bold;font-size:20px;">Professeur</span>
+                    <br />
+                    <img src="~/images/ensa.png" style="width:110px;height:70px; margin-left:30px;" />
+                </a>
+                <button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+
+            <nav class="navbar navbar-header navbar-expand-lg" style="background-color:cornflowerblue
+">
+                <div class="container-fluid">
+
+
+                    <ul class="navbar-nav topbar-nav ml-md-auto align-items-center">
+
+
+                        <li class="nav-item dropdown">
+                            <a class="dropdown-toggle profile-pic" data-toggle="dropdown" href="#" aria-expanded="false"> <img src="../images/prof.png" alt="user-img" width="50" class="img-circle"><span style="color:white;font-weight:bold"> @Context.Session.GetString("username")</span></span> </a>
+                            <ul class="dropdown-menu dropdown-user">
+                                <li>
+                                    <div class="user-box">
+                                        <div class="u-img"><img src="../images/prof.png" alt="user"></div>
+                                        <div class="u-text">
+                                            <h4>Welcome @Context.Session.GetString("username")</h4>
+                                            <p class="text-muted">admin@gmail.com</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <div>
+
+
+                                    @{
+                                        using (Html.BeginForm("Logout", "Account", FormMethod.Get, new { @class = "myForm" }))
+                                        {
+
+
+                                            <input id="btn" type="submit" value="Logout" name="sub" class="btn btn-simple-dark" style="width:120px;" />
+
+
+                                        }
+                                    }
+
+
+                                </div>
+                            </ul>
+                            <!-- /.dropdown-user -->
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+
+        </div>
+        <div class="sidebar" style="color:Black; margin-top:120px;">
+            <div class="scrollbar-inner sidebar-wrapper">
+               
+                <ul class="nav">
+                    <li class="nav-item" >
+                        <a asp-area="" asp-controller="Client" asp-action="ParClasse" style="color:black;font-weight:bold;">
+                            <p>
+                                <i class="fas fa-file-pdf"></i>
+                                Extraire Planning Par Classe
+                            </p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-area="" asp-controller="Client" asp-action="ParLocal" style="color:black;font-weight:bold;">
+                            <p>
+                                <i class="fas fa-file-pdf"></i>
+                                Extraire Planning  Par Local
+                            </p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-area="" asp-controller="Client" asp-action="afficherEmploies" style="color:black;font-weight:bold;">
+                            <p>
+                                <i class="fas fa-file-pdf"></i>
+                                Listes des emploies du temps
+                            </p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="main-panel">
+            <div class="content">
+                <div class="container-fluid">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="container-fluid">
+            <nav class="pull-left">
+                <ul class="nav">
+                    <li class="nav-item">
+                        Projet ASP.Net Core
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+
+                        </a>
+                    </li>
+                    <li class="nav-item">
+
+                    </li>
+                </ul>
+            </nav>
+
+        </div>
+    </footer>
+    </div>
+    </div>
+    </div>
+    </div>
+    <!-- Modal -->
+
+</body>
+
+<script src="~/assets/js/core/jquery.3.2.1.min.js"></script>
+<script src="~/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+<script src="~/assets/js/core/popper.min.js"></script>
+<script src="~/assets/js/core/bootstrap.min.js"></script>
+<script src="~/assets/js/plugin/chartist/chartist.min.js"></script>
+<script src="~/assets/js/plugin/chartist/plugin/chartist-plugin-tooltip.min.js"></script>
+<script src="~/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js"></script>
+<script src="~/assets/js/plugin/bootstrap-toggle/bootstrap-toggle.min.js"></script>
+<script src="~/assets/js/plugin/jquery-mapael/jquery.mapael.min.js"></script>
+<script src="~/assets/js/plugin/jquery-mapael/maps/world_countries.min.js"></script>
+<script src="~/assets/js/plugin/chart-circle/circles.min.js"></script>
+<script src="~/assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"></script>
+<script src="~/assets/js/ready.js"></script>
+</html>

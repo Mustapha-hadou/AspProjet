@@ -1,0 +1,52 @@
+﻿@model miniPrpject_Asp.Models.Cours
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="card">
+            <form asp-action="Create">
+
+                <div class="card-body">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Nom" class="control-label"></label>
+                        <input asp-for="Nom" class="form-control"></input>
+                        <span asp-validation-for="Nom" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Groupe" class="control-label"></label>
+                        <select asp-for="Groupe" class="form-control" asp-items="Html.GetEnumSelectList<TypeLocal>()"></select>
+                        <span asp-validation-for="Groupe" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ProfesseurID" class="control-label"></label>
+                        <input asp-for="ProfesseurID" class="form-control" />
+                        <span asp-validation-for="ProfesseurID" class="text-danger"></span>
+                    </div>
+
+
+
+                </div>
+                <div class="card-action">
+                    <center>
+                        <input class="btn btn-danger" value="Ajouter Proffesseur" type="submit" style="background-color: #e01f1f;">
+
+                        <input class="btn btn-primary" type="reset" value="Annuler">
+
+                        <a asp-action="Index"> <input class="btn btn-secondary" value="Back to List"></a>
+                    </center>
+                </div>
+            </form>
+
+
+        </div>
+
+    </div>
+    <div class="col-md-8"></div>
+</div>
+
+

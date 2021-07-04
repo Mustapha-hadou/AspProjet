@@ -1,0 +1,158 @@
+﻿@model IEnumerable<miniPrpject_Asp.Models.Emploi>
+
+@{ Layout = "~/Views/Shared/_Layout1.cshtml";
+
+                ViewData["Title"] = "Index"; }
+
+
+
+<div class="row">
+    <div class="col-md-9" style="margin-left:100px;">
+
+        <div class="card">
+            <table class="table mt-4">
+                <thead class="thead-light">
+                    <tr>
+                        <th>
+                            Annee universitaire
+                        </th>
+                        <th>
+                            Niveau
+
+                        </th>
+                        <th>
+                            Semaine
+
+                        </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                <tbody>
+                    @{ var exist = 1;}
+                    @foreach (var anne in ViewBag.annee)
+                    {
+
+        @foreach (var niveau in ViewBag.Niveau)
+        {
+            foreach (var x in ViewBag.anneeNive)
+            {
+                if (anne.Id == x.AnneeID && niveau.Id == x.id_niveau)
+                {
+                    exist = 0;
+                }
+            }
+            if (exist == 0)
+            {
+                exist = 1;
+<tr>
+    <td>
+        @anne.Nom
+
+    </td>
+    <td>
+        @niveau.code
+
+
+    </td>
+    <td>
+
+        @foreach (var item in Model)
+        {
+            if (item.id_niveau == niveau.Id & item.AnneeID == anne.Id)
+            {
+
+                foreach (var sem in ViewBag.Semaine)
+                {
+
+
+@if (sem.Id == item.SemaineID)
+{
+
+
+
+@using (Html.BeginForm("AffichageParClasse", "Admin", FormMethod.Post, new { @class = "myForm" }))
+{
+    <input type="hidden" value="@item.id_niveau" name="classe" />
+    <input type="hidden" value="@item.AnneeID" name="annee" />
+    <input type="hidden" value="@item.SemaineID" name="semaine" />
+
+     <input type="submit" value="@sem.NomSemaine" class="btn btn-simple-danger" style="background-color:white" name="but" />}}}
+
+                            }
+                        }
+
+
+    </td>
+
+
+</tr>}
+                }}
+
+
+
+                <tbody>
+                    @{ var eist = 1;}
+                    @foreach (var anne in ViewBag.annee)
+                    {
+
+        @foreach (var niveau in ViewBag.Niveau)
+        {
+            foreach (var x in ViewBag.anneeNive)
+            {
+                if (anne.Id == x.AnneeID && niveau.Id == x.id_niveau)
+                {
+                    eist = 0;
+                }
+            }
+            if (eist == 0)
+            {
+                eist = 1;
+<tr>
+    <td>
+        @anne.Nom
+
+    </td>
+    <td>
+        @niveau.code
+
+
+    </td>
+    <td>
+
+        @foreach (var item in Model)
+        {
+            if (item.id_niveau == niveau.Id & item.AnneeID == anne.Id)
+            {
+
+                foreach (var sem in ViewBag.Semaine)
+                {
+
+
+@if (sem.Id == item.SemaineID)
+{
+
+
+
+@using (Html.BeginForm("AffichageParClasse", "Admin", FormMethod.Post, new { @class = "myForm" }))
+{
+<input type="hidden" value="@item.id_niveau" name="classe" />
+                                            <input type="hidden" value="@item.AnneeID" name="annee" />
+                                                                                        <input type="hidden" value="@item.SemaineID" name="semaine" />
+
+                                                                                                                                    <input type="submit" value="@sem.NomSemaine" class="btn btn-simple-danger" style="background-color:white" name="but" />}}}
+
+                            }
+                        }
+
+
+    </td>
+
+
+</tr>}
+                }}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
