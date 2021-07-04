@@ -1,10 +1,8 @@
-﻿
-
-@model IEnumerable<miniPrpject_Asp.Models.Local>
+﻿@model IEnumerable<miniPrpject_Asp.Models.Local>
 <div class="modal-header">
     <h5 class="modal-title" id="exampleModalLabel" style="margin-left:300px;font-weight:bold">Les salles disponibles</h5>
-</div> 
-  
+</div>
+
 <div class="row">
     <div class="col-md-12">
 
@@ -15,21 +13,38 @@
                         <th>
                             @Html.DisplayName("Nom du local ")
                         </th>
+                        <th>
+                            @Html.DisplayName("Type du local ")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Localisation du local ")
+                        </th>
+                        <th>
+                            @Html.DisplayName("Capacité du local ")
+                        </th>
 
                     </tr>
                 </thead>
                 <tbody>
                     @foreach (var item in Model)
                     {
-                        <tr>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Nom)
-                            </td>
-                        </tr>
-                    }
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeLocal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.localisation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Capacite)
+            </td>
+        </tr>}
                 </tbody>
             </table>
-            
+
         </div>
     </div>
-</div> 
+</div>
